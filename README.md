@@ -40,8 +40,8 @@ Claude 镜像网站：[https://ai.lanjingai.org/](https://ai.lanjingai.org/)
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
 | **Xsimple Claude**         | [xsimplechat.com](https://xsimplechat.com) | Claude Sonnet 4.5, Claude Sonnet 4、GPT、Gemini、Grok、Nano Banana、AI PPT、AI绘画、AI翻译等 | 有 | 国内邮箱注册 | 高     | 中文支持、支持最新模型、AI绘画、AI PPT、AI文件分析等 |
 | **蓝鲸 Claude 中文站**     | [ai.lanjingai.org](https://ai.lanjingai.org)      | Claude Sonnet 4.5, Claude Sonnet 4、Grok、Gemini、DeepSeek r1满血版、AI绘画、GPT-4o-image       | 有 | 国内邮箱注册     | 高     | 支持最新的Claude模型，实时语音对话，视频对话|
-| **Claude中国**         | [claude-chinese.com](https://claude-chinese.com) | Claude Sonnet 4.5, Claude Sonnet 4等| 有 | 国内邮箱注册 | 高     | 稳定快速，支持 API 调用 |
-| **Gemini 中文**         | [gemini-chinese.com](https://gemini-chinese.com) | Claude Sonnet 4.5      | 有 | 邮箱注册     | 中     | 模型聚合，支持全球顶流模型 |
+| **Claude中国**         | [claude-chinese.com](https://www.claude-chinese.com) | Claude Sonnet 4.5, Claude Sonnet 4等| 有 | 国内邮箱注册 | 高     | 稳定快速，支持 API 调用 |
+| **Gemini 中文**         | [gemini-chinese.com](https://www.gemini-chinese.com) | Claude Sonnet 4.5      | 有 | 邮箱注册     | 中     | 模型聚合，支持全球顶流模型 |
 
 ---
 
